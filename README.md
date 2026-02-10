@@ -6,6 +6,12 @@ The Power BI dashboard provides a comprehensive view of hospital performance, di
 
 ![Dashboard](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/dashboard.jpeg)
 
+![chart](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/chart.jpeg)
+
+![charts](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/charts.jpeg)
+
+![chart](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/chrt.jpeg)
+
 ## Disease Patterns Across Counties
 
 ### Stacked Bar Chart (Diagnosis by County)
@@ -19,7 +25,7 @@ The stacked bar chart comparing diagnoses across counties shows that some diseas
 
 This visual clearly highlights geographic disparities in disease burden, enabling management to design county-specific prevention and outreach programs rather than applying uniform strategies across all areas.
 
-![charts](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/charts.jpeg)
+
 
 ## Disease Trends Over Time
 
