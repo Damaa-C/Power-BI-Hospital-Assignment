@@ -12,7 +12,9 @@ The Power BI dashboard provides a comprehensive view of hospital performance, di
 
 The stacked bar chart comparing diagnoses across counties shows that some diseases are consistently high across nearly all regions, indicating widespread public health concerns. At the same time, certain conditions are more concentrated in specific counties, suggesting possible regional influences such as environmental factors, population lifestyle, or access to early treatment.
 ![UasinGishu County](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/diseaseuasingishu.jpeg)
-![Kisumu County]()
+
+![Kisumu County](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/kisumu.jpeg)
+
 ![Mombasa County]()
 
 This visual clearly highlights geographic disparities in disease burden, enabling management to design county-specific prevention and outreach programs rather than applying uniform strategies across all areas.
