@@ -1,6 +1,7 @@
 ## Dashboard Analysis & Insights
 
 The Power BI dashboard provides a comprehensive view of hospital performance, disease patterns, and pharmacy operations. Each visual contributes specific insights that support management decision-making.
+![PowerBIHospitaldataset](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/PBI%20Hospital%20dataset.pbix.zip)
 
 ## Disease Patterns Across Counties
 
