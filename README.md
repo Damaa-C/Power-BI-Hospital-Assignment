@@ -85,15 +85,15 @@ The figure below demonstrates a star schema for the hospital pharmacy dataset ab
 
 By combining insights from all visuals, the dashboard shows that:
 
--Disease burden varies by region and time
+- Disease burden varies by region and time
 
--Pharmacy revenue depends on case complexity, not just patient numbers
+- Pharmacy revenue depends on case complexity, not just patient numbers
 
--A few departments and drug categories drive most pharmacy costs
+- A few departments and drug categories drive most pharmacy costs
 
--Older age groups are the largest consumers of medication
+- Older age groups are the largest consumers of medication
 
--Some conditions are stay-intensive, while others are drug-intensive
+- Some conditions are stay-intensive, while others are drug-intensive
 
 These findings provide hospital management with a strong foundation for resource allocation, budgeting, procurement planning, and targeted public health interventions.# Power-BI-Hospital-Assignment
 This project demonstrates end-to-end Power BI skills including data cleaning, modeling, DAX, and executive dashboard design using a real-world healthcare scenario.
