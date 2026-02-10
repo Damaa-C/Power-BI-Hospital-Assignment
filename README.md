@@ -15,7 +15,7 @@ The stacked bar chart comparing diagnoses across counties shows that some diseas
 
 ![Kisumu County](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/kisumu.jpeg)
 
-![Mombasa County]()
+![Mombasa County](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/mombasa.jpeg)
 
 This visual clearly highlights geographic disparities in disease burden, enabling management to design county-specific prevention and outreach programs rather than applying uniform strategies across all areas.
 
