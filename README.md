@@ -2,7 +2,7 @@
 
 The Power BI dashboard provides a comprehensive view of hospital performance, disease patterns, and pharmacy operations. Each visual contributes specific insights that support management decision-making.
 
-![PowerBIHospitaldataset](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/PBI%20Hospital%20dataset.pbix.zip)
+![Power BI Hospital Pharmacy dataset](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/PBI%20Hospital%20dataset.pbix.zip)
 
 ![Dashboard](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/dashboard.jpeg)
 
@@ -74,6 +74,12 @@ This demonstrates that higher patient volume does not always lead to proportiona
 The scatter chart reveals that some diagnoses are associated with long hospital stays but lower pharmacy spending. This suggests that the cost of care for these cases is driven more by bed occupancy, monitoring, and clinical support than by medication.
 
 Conversely, other diagnoses show shorter stays but higher pharmacy costs, indicating drug-intensive treatment. This distinction is important for hospital capacity planning and budgeting, as it highlights different types of resource demand.
+
+## Schema
+The figure below demonstrates a star schema for the hospital pharmacy dataset above.
+
+![schema](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/schema.jpeg)
+
 
 ## Summary of Findings
 
