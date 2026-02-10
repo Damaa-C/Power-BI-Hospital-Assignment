@@ -4,6 +4,8 @@ The Power BI dashboard provides a comprehensive view of hospital performance, di
 
 ![PowerBIHospitaldataset](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/PBI%20Hospital%20dataset.pbix.zip)
 
+![Dashboard](https://github.com/Damaa-C/Power-BI-Hospital-Assignment/blob/main/dashboard.jpeg)
+
 ## Disease Patterns Across Counties
 
 ### Stacked Bar Chart (Diagnosis by County)
